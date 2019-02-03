@@ -1,7 +1,7 @@
 # SSFCollection4fcitx
 a collection of (mostly) minimalistic ssf sogou ime skins for linux
 
-Source links:
+## Source links:
 
 [Alpha White 2.0](https://pinyin.sogou.com/skins/detail/view/info/525970)
 
